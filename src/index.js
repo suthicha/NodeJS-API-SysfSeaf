@@ -1,5 +1,3 @@
-import { request } from 'https';
-
 var express = require('express');
 var cors = require('cors');
 var jwt = require('jsonwebtoken');
